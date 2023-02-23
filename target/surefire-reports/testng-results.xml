@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="213688" started-at="2022-01-18T14:11:37 IST" finished-at="2022-01-18T14:15:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="213688" started-at="2022-01-18T14:11:37 IST" finished-at="2022-01-18T14:15:11 IST">
+      <class name="Tests.loginpage">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:Tests.loginpage@71bbf57e]" name="OpenApplication" is-config="true" duration-ms="7759" started-at="2022-01-18T14:11:38 IST" finished-at="2022-01-18T14:11:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="loginpages(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.loginpage@71bbf57e]" name="loginpages" duration-ms="33219" started-at="2022-01-18T14:11:46 IST" data-provider="getinfo" finished-at="2022-01-18T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpages -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Tests.loginpage@71bbf57e]" name="closebrowser" is-config="true" duration-ms="841" started-at="2022-01-18T14:12:19 IST" finished-at="2022-01-18T14:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:Tests.loginpage@71bbf57e]" name="OpenApplication" is-config="true" duration-ms="6349" started-at="2022-01-18T14:12:20 IST" finished-at="2022-01-18T14:12:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="loginpages(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.loginpage@71bbf57e]" name="loginpages" duration-ms="34350" started-at="2022-01-18T14:12:26 IST" data-provider="getinfo" finished-at="2022-01-18T14:13:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpages -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Tests.loginpage@71bbf57e]" name="closebrowser" is-config="true" duration-ms="826" started-at="2022-01-18T14:13:00 IST" finished-at="2022-01-18T14:13:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:Tests.loginpage@71bbf57e]" name="OpenApplication" is-config="true" duration-ms="4905" started-at="2022-01-18T14:13:01 IST" finished-at="2022-01-18T14:13:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="loginpages(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.loginpage@71bbf57e]" name="loginpages" duration-ms="29597" started-at="2022-01-18T14:13:06 IST" data-provider="getinfo" finished-at="2022-01-18T14:13:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpages -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Tests.loginpage@71bbf57e]" name="closebrowser" is-config="true" duration-ms="862" started-at="2022-01-18T14:13:36 IST" finished-at="2022-01-18T14:13:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:Tests.loginpage@71bbf57e]" name="OpenApplication" is-config="true" duration-ms="4958" started-at="2022-01-18T14:13:37 IST" finished-at="2022-01-18T14:13:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="loginpages(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.loginpage@71bbf57e]" name="loginpages" duration-ms="32673" started-at="2022-01-18T14:13:42 IST" data-provider="getinfo" finished-at="2022-01-18T14:14:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpages -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Tests.loginpage@71bbf57e]" name="closebrowser" is-config="true" duration-ms="1021" started-at="2022-01-18T14:14:14 IST" finished-at="2022-01-18T14:14:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:Tests.loginpage@71bbf57e]" name="OpenApplication" is-config="true" duration-ms="7046" started-at="2022-01-18T14:14:15 IST" finished-at="2022-01-18T14:14:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="loginpages(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.loginpage@71bbf57e]" name="loginpages" duration-ms="47493" started-at="2022-01-18T14:14:22 IST" data-provider="getinfo" finished-at="2022-01-18T14:15:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saipattabhi18@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sai@336699]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpages -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Tests.loginpage@71bbf57e]" name="closebrowser" is-config="true" duration-ms="954" started-at="2022-01-18T14:15:10 IST" finished-at="2022-01-18T14:15:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Tests.loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
